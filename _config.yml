@@ -33,7 +33,7 @@ social_media:
   # facebook: your_username
   # linkedin: your_username
   # medium: @your_username
-  # stackoverflow: your_user_id
+  stackoverflow: jo262t
   # telegram: your_username
    twitter: jo262t
   # youtube: your_username
@@ -46,6 +46,6 @@ topics:
     
   - name: Spring Boot
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: dot net core
+  - name: Docker
+  - name: Kubernetes
