@@ -40,12 +40,16 @@ social_media:
   # vk: your_username
 
 topics:
+  - name: dot net core
+    web_url: https://github.com/topics/dotnetcore
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/dotnet/dotnet.png
+    
   - name: java
     web_url: https://github.com/topics/java
     image_url: 
     
   - name: Spring Boot
+    web_url: https://github.com/topics/spring-boot
 
-  - name: dot net core
   - name: Docker
   - name: Kubernetes
